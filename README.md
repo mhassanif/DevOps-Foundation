@@ -4,4 +4,4 @@
 
 <!-- add an image here -->
 
-![Basic Git Commands!](image.png)
+![Basic Git Commands!](image-1.png)
